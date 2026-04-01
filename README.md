@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Gaurav Aspiring Java Developer focused on building strong problem-solving skills through Data Structures and Algorithms.
+# 👋 Hi, I'm Gaurav 
+Aspiring Java Developer focused on building strong problem-solving skills through Data Structures and Algorithms.
 
 Currently working on improving core programming concepts, writing efficient code, and exploring backend development.
 
