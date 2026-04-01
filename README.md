@@ -1,4 +1,8 @@
-# 👋 Hi, I'm Gaurav
+# 👋 Hi, I'm Gaurav Aspiring Java Developer focused on building strong problem-solving skills through Data Structures and Algorithms.
+
+Currently working on improving core programming concepts, writing efficient code, and exploring backend development.
+
+Strong communicator with a disciplined and consistent approach to learning and growth.
 
 ### 💻 Java Developer | Backend Enthusiast
 
@@ -35,12 +39,13 @@
 ---
 
 ## 📈 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=KumarGaurav777&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=KumarGaurav777&theme=dark&hide_border=false)
-
----
+## 🌐 Connect With Me
+[LinkedIn](https://linkedin.com/in/Kumar Gaurav) • [YouTube](https://youtube.com/@rockgaurav)
 
 ## 🌐 Connect With Me
 [LinkedIn](https://linkedin.com/in/Kumar Gaurav) • [Instagram](https://instagram.com/rock_gaurav18)
+
+## 🌐 Connect With Me
+[LinkedIn](https://www.linkedin.com/in/kumar-gaurav-167ab0262)
 
 ---
