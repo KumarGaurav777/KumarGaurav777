@@ -41,12 +41,8 @@ Strong communicator with a disciplined and consistent approach to learning and g
 
 ## 📈 GitHub Stats
 ## 🌐 Connect With Me
-[LinkedIn](https://linkedin.com/in/Kumar Gaurav) • [YouTube](https://youtube.com/@rockgaurav)
 
-## 🌐 Connect With Me
-[LinkedIn](https://linkedin.com/in/Kumar Gaurav) • [Instagram](https://instagram.com/rock_gaurav18)
-
-## 🌐 Connect With Me
-[LinkedIn](https://www.linkedin.com/in/kumar-gaurav-167ab0262)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kumar-gaurav-167ab0262)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white)](https://youtube.com/@rockgaurav)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/rock_gaurav18)
 ---
